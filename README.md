@@ -7,14 +7,20 @@
    -  Provide the server ID, and Corrupt Logger will do the rest. 
 
 ## Organized Output
-- 📁 **Output Folder:** Corrupt Logger creates a dedicated "Output" folder.
-- 📂 **Server Folders:** Each server gets its own folder for easy navigation.
-- 🖼️ **Images and Videos:** Media content is neatly sorted into "Images" and "Videos" folders.
+- 📁 **Output Folder:**
+   - Corrupt Logger creates a dedicated "Output" folder.
+- 📂 **Server Folders:**
+   - Each server gets its own folder for easy navigation.
+- 🖼️ **Images and Videos:**
+   - Media content is neatly sorted into "Images" and "Videos" folders.
 
 ## Why Choose Corrupt Logger?
-- 🚀 **Efficiency:** Scan the entire server effortlessly.
-- 📂 **Organization:** Say goodbye to chaotic media libraries.
-- 🔐 **Privacy:** Doesn't log private channels.
+- 🚀 **Efficiency:**
+   - Scan the entire server effortlessly.
+- 📂 **Organization:**
+   - Say goodbye to chaotic media libraries.
+- 🔐 **Privacy:**
+   - Doesn't log private channels.
 
 # How to Run Corrupt Logger
 
