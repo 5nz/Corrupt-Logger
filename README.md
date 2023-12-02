@@ -39,4 +39,4 @@ To get started with Corrupt Logger, follow these simple steps:
    - After setup is complete, run `Corrupt Logger.exe` to start the application.
 
  ## Youtube Tutorial
-- Click [here](https://www.youtube.com/watch?v=iC4Y9BnTjfk) For youtube Tutorial.
+- Click [here](https://streamable.com/ekb859) For Tutorial.
