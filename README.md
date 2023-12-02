@@ -1,8 +1,10 @@
 # Corrupt Logger - The Ultimate Discord Media Logger!
 
 ## How it Works
-- 💬 **Discord Token:** Import the Discord token of your choice.
-- 🌐 **Server ID:** Provide the server ID, and Corrupt Logger will do the rest.
+- 💬 **Discord Token:**
+   - Import the Discord token of your choice.
+- 🌐 **Server ID:**
+   -  Provide the server ID, and Corrupt Logger will do the rest. 
 
 ## Organized Output
 - 📁 **Output Folder:** Corrupt Logger creates a dedicated "Output" folder.
