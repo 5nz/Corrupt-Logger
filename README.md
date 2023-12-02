@@ -37,3 +37,6 @@ To get started with Corrupt Logger, follow these simple steps:
 
 - 🚀 **Launch Corrupt Logger:**
    - After setup is complete, run `Corrupt Logger.exe` to start the application.
+
+## Youtube Tutorial
+- Click [here](https://www.youtube.com/watch?v=iC4Y9BnTjfk) For youtube Tutorial.
