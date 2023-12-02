@@ -30,7 +30,7 @@ To get started with Corrupt Logger, follow these simple steps:
    - Make sure you have Python installed on your system. You can download it [here](https://www.python.org/downloads/).
 
 - 📂 **Install The Resources:**
-   - Click [here](https://github.com/5nz/Corrupt-Logger/releases/tag/Logger) And install **CorruptLogger.rar** And then Extract anywhere you want.
+   - Click [here](https://github.com/5nz/Corrupt-Logger/releases/tag/Logger) And install `CorruptLogger.rar` And then Extract anywhere you want.
 
 - 🛠️ **Run Setup.bat:**
    - Execute the `setup.bat` file to ensure all necessary dependencies are installed.
