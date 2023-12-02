@@ -1,8 +1,8 @@
 # Corrupt Logger - The Ultimate Discord Media Logger!
 
 ## How it Works
-1. **Discord Token:** Simply import the Discord token of your choice.
-2. **Server ID:** Provide the server ID, and Corrupt Logger will do the rest.
+- 💬 **Discord Token:** Import the Discord token of your choice.
+- 🌐 **Server ID:** Provide the server ID, and Corrupt Logger will do the rest.
 
 ## Organized Output
 - 📁 **Output Folder:** Corrupt Logger creates a dedicated "Output" folder.
@@ -13,3 +13,16 @@
 - 🚀 **Efficiency:** Scan the entire server effortlessly.
 - 📂 **Organization:** Say goodbye to chaotic media libraries.
 - 🔐 **Privacy:** Doesn't log private channels.
+
+# How to Run Corrupt Logger
+
+To get started with Corrupt Logger, follow these simple steps:
+
+- ⚙️ **Install Python:**
+   - Make sure you have Python installed on your system. You can download it [here](https://www.python.org/downloads/).
+
+- 🛠️ **Run Setup.bat:**
+   - Execute the `setup.bat` file to ensure all necessary dependencies are installed.
+
+- 🚀 **Launch Corrupt Logger:**
+   - After setup is complete, run `Corrupt Logger.exe` to start the application.
